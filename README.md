@@ -14,7 +14,8 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScriptS-%FCC624.svg?style=for-the-badge&logo=JavaScriptS&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-%230072C6?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/JavaScriptS-%FCC624?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
@@ -56,7 +57,7 @@ Check out my [GitHub profile](https://github.com/naima90?tab=repositories) for m
 <h3 align="center">🔗 Connect</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naima-osman/">
+  <a href="https://www.linkedin.com/in/naima-osman-/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://naima/blog">
