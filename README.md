@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Naima 👋</h1>
 
 <p align="center">
-  <strong>DevOps/Platform Engineer</strong> · Building tools and communities for the DevOps ecosystem
+  <strong>DevOps/Platform Engineer</strong> · Building tools | Shipping infrastructure | Scaling teams
 </p>
 
 <p align="center">
